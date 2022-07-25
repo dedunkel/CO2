@@ -1,4 +1,4 @@
-#정렬 1단계 2750번
+.22#정렬 1단계 2750번
 '''
 n=int(input())
 num=[]
@@ -183,5 +183,3 @@ for i in range(len(num)):
 for i in nums:
     print(dic[i], end=' ')
     
-
-
